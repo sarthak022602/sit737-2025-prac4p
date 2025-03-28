@@ -1,0 +1,9 @@
+{"level":"info","message":"Microservice started on port 3001","service":"calculator-microservice"}
+{"level":"info","message":"Request: GET /","service":"calculator-microservice"}
+{"level":"info","message":"Request: GET /add?num1=10&num2=5","service":"calculator-microservice"}
+{"level":"info","message":"Addition: 10 + 5 = 15","service":"calculator-microservice"}
+{"level":"info","message":"Request: GET /favicon.ico","service":"calculator-microservice"}
+{"level":"info","message":"Microservice started on port 3002","service":"calculator-microservice"}
+{"level":"info","message":"Request: GET /add?num1=10&num2=5","service":"calculator-microservice"}
+{"level":"info","message":"Addition: 10 + 5 = 15","service":"calculator-microservice"}
+{"level":"info","message":"Request: GET /favicon.ico","service":"calculator-microservice"}
